@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\index\\source\\repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj": {}
+    "C:\\Users\\index\\Source\\Repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\index\\source\\repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj": {
+    "C:\\Users\\index\\Source\\Repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\index\\source\\repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\index\\Source\\Repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj",
         "projectName": "YougeAPI",
-        "projectPath": "C:\\Users\\index\\source\\repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj",
+        "projectPath": "C:\\Users\\index\\Source\\Repos\\zaiting\\youge-api\\YougeAPI\\YougeAPI.csproj",
         "packagesPath": "C:\\Users\\index\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\index\\source\\repos\\zaiting\\youge-api\\YougeAPI\\obj\\",
+        "outputPath": "C:\\Users\\index\\Source\\Repos\\zaiting\\youge-api\\YougeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\index\\AppData\\Roaming\\NuGet\\NuGet.Config",
